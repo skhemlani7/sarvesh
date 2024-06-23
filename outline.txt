@@ -1,0 +1,16 @@
+- sveltekit with three js 
+
+- gateway page for user to decide 
+    - do they want a pdf of my resume 
+    - can their machine run this site, specifically three js apps 
+    - brief intro to the site and what it's about 
+    - picture of me?? 
+
+- three js app 
+    - third person view like hades, disco elysium, starcraft
+    - interactive museum about me 
+    - Different sections
+        - hobbies 
+        - experience 
+	- goals
+	- 
